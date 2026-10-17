@@ -1,0 +1,116 @@
+# Noviqo B.V. — fictief juridisch oefendossier
+
+> Volledig fictief dossier van de scale-up Noviqo B.V. (SaaS-platform PlanGrip): contracten, beleid, processen, privacy, governance en geschillen. Voor MCP-trainingen; geen juridisch advies.
+
+- [Overzicht (README)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/README.md)
+
+## 01 Ondernemingsrecht en governance
+- [Aandeelhoudersbesluit buiten vergadering Series A (2025-09-30)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/01%20Ondernemingsrecht%20en%20governance/Aandeelhoudersbesluit%20buiten%20vergadering%20Series%20A%20%282025-09-30%29.md)
+- [Aandeelhoudersovereenkomst Noviqo B.V. (2024-03-15)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/01%20Ondernemingsrecht%20en%20governance/Aandeelhoudersovereenkomst%20Noviqo%20B.V.%20%282024-03-15%29.md)
+- [Notulen algemene vergadering Noviqo B.V. (2025-06-30)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/01%20Ondernemingsrecht%20en%20governance/Notulen%20algemene%20vergadering%20Noviqo%20B.V.%20%282025-06-30%29.md)
+- [Notulen bestuursvergadering met raad van commissarissen (2026-06-12)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/01%20Ondernemingsrecht%20en%20governance/Notulen%20bestuursvergadering%20met%20raad%20van%20commissarissen%20%282026-06-12%29.md)
+
+## 02 Financiering en investeringen
+- [Conversiekennisgeving converteerbare lening Sterrelink (2025-09-15)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/02%20Financiering%20en%20investeringen/Conversiekennisgeving%20converteerbare%20lening%20Sterrelink%20%282025-09-15%29.md)
+- [Converteerbare geldleningsovereenkomst Sterrelink Ventures (2024-03-15)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/02%20Financiering%20en%20investeringen/Converteerbare%20geldleningsovereenkomst%20Sterrelink%20Ventures%20%282024-03-15%29.md)
+- [Kapitalisatietabel Noviqo na Series A (2025-10-01)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/02%20Financiering%20en%20investeringen/Kapitalisatietabel%20Noviqo%20na%20Series%20A%20%282025-10-01%29.md)
+- [Term sheet Series A Kroonvaart Capital (2025-07-14)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/02%20Financiering%20en%20investeringen/Term%20sheet%20Series%20A%20Kroonvaart%20Capital%20%282025-07-14%29.md)
+
+## 03 NDA's (geheimhouding)
+- [Geheimhoudingsovereenkomst Kroonvaart Capital (2025-06-02)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/03%20NDA%27s%20%28geheimhouding%29/Geheimhoudingsovereenkomst%20Kroonvaart%20Capital%20%282025-06-02%29.md)
+- [Wederkerige geheimhoudingsovereenkomst Sterrelink Ventures (2024-01-22)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/03%20NDA%27s%20%28geheimhouding%29/Wederkerige%20geheimhoudingsovereenkomst%20Sterrelink%20Ventures%20%282024-01-22%29.md)
+
+## 04 Inkoopcontracten
+- [Enterprise Services Agreement Dendra AI Inc. (2025-11-03)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/04%20Inkoopcontracten/Enterprise%20Services%20Agreement%20Dendra%20AI%20Inc.%20%282025-11-03%29.md)
+- [Inkoopovereenkomst hostingdiensten Wolkenrand Hosting (2023-05-08)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/04%20Inkoopcontracten/Inkoopovereenkomst%20hostingdiensten%20Wolkenrand%20Hosting%20%282023-05-08%29.md)
+- [Opdrachtovereenkomst penetratietest Schildwacht Security (2026-01-05)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/04%20Inkoopcontracten/Opdrachtovereenkomst%20penetratietest%20Schildwacht%20Security%20%282026-01-05%29.md)
+- [Overeenkomst salarisadministratie Salariswijs (2024-12-02)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/04%20Inkoopcontracten/Overeenkomst%20salarisadministratie%20Salariswijs%20%282024-12-02%29.md)
+
+## 05 Verkoopcontracten
+- [Offerte PlanGrip Teams - Evenementenbureau Zonnekade (2025-08-20)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/05%20Verkoopcontracten/Offerte%20PlanGrip%20Teams%20-%20Evenementenbureau%20Zonnekade%20%282025-08-20%29.md)
+- [Overeenkomst PlanGrip - Gemeente Lindewoude (2026-03-16)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/05%20Verkoopcontracten/Overeenkomst%20PlanGrip%20-%20Gemeente%20Lindewoude%20%282026-03-16%29.md)
+- [Resellerovereenkomst Cijferkrans ICT (2025-05-01)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/05%20Verkoopcontracten/Resellerovereenkomst%20Cijferkrans%20ICT%20%282025-05-01%29.md)
+- [SaaS-overeenkomst PlanGrip - Bouwgroep Hazelaar (2024-09-02)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/05%20Verkoopcontracten/SaaS-overeenkomst%20PlanGrip%20-%20Bouwgroep%20Hazelaar%20%282024-09-02%29.md)
+- [SaaS-overeenkomst PlanGrip Enterprise - Installatiebedrijf Rietvelden (2025-02-10)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/05%20Verkoopcontracten/SaaS-overeenkomst%20PlanGrip%20Enterprise%20-%20Installatiebedrijf%20Rietvelden%20%282025-02-10%29.md)
+
+## 06 SLA's
+- [Service Level Agreement PlanGrip - Bouwgroep Hazelaar (2024-09-02)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/06%20SLA%27s/Service%20Level%20Agreement%20PlanGrip%20-%20Bouwgroep%20Hazelaar%20%282024-09-02%29.md)
+- [Service Level Agreement PlanGrip Enterprise (versie 2.0, januari 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/06%20SLA%27s/Service%20Level%20Agreement%20PlanGrip%20Enterprise%20%28versie%202.0%2C%20januari%202025%29.md)
+
+## 07 Verwerkersovereenkomsten
+- [Subverwerkerslijst PlanGrip (versie 4, januari 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/07%20Verwerkersovereenkomsten/Subverwerkerslijst%20PlanGrip%20%28versie%204%2C%20januari%202026%29.md)
+- [Verwerkersovereenkomst Klantloep CRM - Noviqo (2024-02-19)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/07%20Verwerkersovereenkomsten/Verwerkersovereenkomst%20Klantloep%20CRM%20-%20Noviqo%20%282024-02-19%29.md)
+- [Verwerkersovereenkomst Noviqo - Wolkenrand Hosting (2023-05-08)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/07%20Verwerkersovereenkomsten/Verwerkersovereenkomst%20Noviqo%20-%20Wolkenrand%20Hosting%20%282023-05-08%29.md)
+- [Verwerkersovereenkomst PlanGrip - Bouwgroep Hazelaar (2024-09-02)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/07%20Verwerkersovereenkomsten/Verwerkersovereenkomst%20PlanGrip%20-%20Bouwgroep%20Hazelaar%20%282024-09-02%29.md)
+- [Verwerkersovereenkomst Salariswijs - Noviqo (2024-12-02)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/07%20Verwerkersovereenkomsten/Verwerkersovereenkomst%20Salariswijs%20-%20Noviqo%20%282024-12-02%29.md)
+
+## 08 Privacy en AVG
+- [Cookieverklaring Noviqo (versie 2.0, maart 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/08%20Privacy%20en%20AVG/Cookieverklaring%20Noviqo%20%28versie%202.0%2C%20maart%202025%29.md)
+- [DPIA PlanGrip Insights (2026-02-20)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/08%20Privacy%20en%20AVG/DPIA%20PlanGrip%20Insights%20%282026-02-20%29.md)
+- [Incidentrapport en datalekregister 2025-2026](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/08%20Privacy%20en%20AVG/Incidentrapport%20en%20datalekregister%202025-2026.md)
+- [Privacyverklaring Noviqo B.V. (versie 3.0, januari 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/08%20Privacy%20en%20AVG/Privacyverklaring%20Noviqo%20B.V.%20%28versie%203.0%2C%20januari%202025%29.md)
+- [Transfer Impact Assessment Dendra AI (2025-10-28)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/08%20Privacy%20en%20AVG/Transfer%20Impact%20Assessment%20Dendra%20AI%20%282025-10-28%29.md)
+- [Verwerkingsregister Noviqo B.V. (peildatum september 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/08%20Privacy%20en%20AVG/Verwerkingsregister%20Noviqo%20B.V.%20%28peildatum%20september%202026%29.md)
+
+## 09 Algemene voorwaarden
+- [Algemene voorwaarden Noviqo B.V. (versie 2.1, maart 2024)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/09%20Algemene%20voorwaarden/Algemene%20voorwaarden%20Noviqo%20B.V.%20%28versie%202.1%2C%20maart%202024%29.md)
+
+## 10 Arbeidsovereenkomsten
+- [Arbeidsovereenkomst bepaalde tijd J. Elzinga (2025-08-14)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/10%20Arbeidsovereenkomsten/Arbeidsovereenkomst%20bepaalde%20tijd%20J.%20Elzinga%20%282025-08-14%29.md)
+- [Arbeidsovereenkomst onbepaalde tijd J. Vendelbroek (2024-06-12)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/10%20Arbeidsovereenkomsten/Arbeidsovereenkomst%20onbepaalde%20tijd%20J.%20Vendelbroek%20%282024-06-12%29.md)
+- [Opdrachtovereenkomst freelance developer Duysak Development (2025-09-22)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/10%20Arbeidsovereenkomsten/Opdrachtovereenkomst%20freelance%20developer%20Duysak%20Development%20%282025-09-22%29.md)
+- [Stageovereenkomst F. Oosterlaar (2026-01-15)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/10%20Arbeidsovereenkomsten/Stageovereenkomst%20F.%20Oosterlaar%20%282026-01-15%29.md)
+- [Vaststellingsovereenkomst T. Gravemaker (2026-02-20)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/10%20Arbeidsovereenkomsten/Vaststellingsovereenkomst%20T.%20Gravemaker%20%282026-02-20%29.md)
+
+## 11 Managementovereenkomsten
+- [Managementovereenkomst Van Dalsem Holding B.V. (2023-02-01)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/11%20Managementovereenkomsten/Managementovereenkomst%20Van%20Dalsem%20Holding%20B.V.%20%282023-02-01%29.md)
+
+## 12 Intellectuele eigendom
+- [Akte van overdracht IE-rechten Studio Pixelheuvel (2023-11-20)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/12%20Intellectuele%20eigendom/Akte%20van%20overdracht%20IE-rechten%20Studio%20Pixelheuvel%20%282023-11-20%29.md)
+- [Open source-beleid en softwarecompositie PlanGrip (versie 1.0, maart 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/12%20Intellectuele%20eigendom/Open%20source-beleid%20en%20softwarecompositie%20PlanGrip%20%28versie%201.0%2C%20maart%202026%29.md)
+- [Overzicht merken en domeinnamen Noviqo (peildatum augustus 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/12%20Intellectuele%20eigendom/Overzicht%20merken%20en%20domeinnamen%20Noviqo%20%28peildatum%20augustus%202026%29.md)
+
+## 13 Huisvesting
+- [Allonge huurovereenkomst De Spilhoek uitbreiding tweede verdieping (2026-05-01)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/13%20Huisvesting/Allonge%20huurovereenkomst%20De%20Spilhoek%20uitbreiding%20tweede%20verdieping%20%282026-05-01%29.md)
+- [Huurovereenkomst kantoorruimte De Spilhoek (2023-03-27)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/13%20Huisvesting/Huurovereenkomst%20kantoorruimte%20De%20Spilhoek%20%282023-03-27%29.md)
+
+## 14 Geschillen en incasso
+- [Aansprakelijkstelling Bouwgroep Hazelaar storing (2026-03-18)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/14%20Geschillen%20en%20incasso/Aansprakelijkstelling%20Bouwgroep%20Hazelaar%20storing%20%282026-03-18%29.md)
+- [Betalingsregeling Drukwerk Voltman (2025-05-12)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/14%20Geschillen%20en%20incasso/Betalingsregeling%20Drukwerk%20Voltman%20%282025-05-12%29.md)
+- [Ingebrekestelling Drukwerk Voltman v.o.f. (2025-04-14)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/14%20Geschillen%20en%20incasso/Ingebrekestelling%20Drukwerk%20Voltman%20v.o.f.%20%282025-04-14%29.md)
+- [Reactie Noviqo op aansprakelijkstelling Hazelaar (2026-04-01)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/14%20Geschillen%20en%20incasso/Reactie%20Noviqo%20op%20aansprakelijkstelling%20Hazelaar%20%282026-04-01%29.md)
+
+## 15 Sales en marketing
+- [Commissieregeling sales 2026](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/15%20Sales%20en%20marketing/Commissieregeling%20sales%202026.md)
+- [Klantenoverzicht en pipeline Q3 2026](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/15%20Sales%20en%20marketing/Klantenoverzicht%20en%20pipeline%20Q3%202026.md)
+- [Prijslijst en productoverzicht PlanGrip (versie 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/15%20Sales%20en%20marketing/Prijslijst%20en%20productoverzicht%20PlanGrip%20%28versie%202026%29.md)
+- [Richtlijn e-mailmarketing en leadgeneratie (versie 1.1, 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/15%20Sales%20en%20marketing/Richtlijn%20e-mailmarketing%20en%20leadgeneratie%20%28versie%201.1%2C%202025%29.md)
+- [Salesplaybook PlanGrip (versie 2.0, maart 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/15%20Sales%20en%20marketing/Salesplaybook%20PlanGrip%20%28versie%202.0%2C%20maart%202026%29.md)
+
+## 16 Beleid en reglementen
+- [Beleid gebruik ICT-middelen en generatieve AI (versie 2.0, december 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/16%20Beleid%20en%20reglementen/Beleid%20gebruik%20ICT-middelen%20en%20generatieve%20AI%20%28versie%202.0%2C%20december%202025%29.md)
+- [Beleid hybride werken en thuiswerken (versie 1.0, april 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/16%20Beleid%20en%20reglementen/Beleid%20hybride%20werken%20en%20thuiswerken%20%28versie%201.0%2C%20april%202025%29.md)
+- [Bewaarbeleid documenten en gegevens (versie 1.1, februari 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/16%20Beleid%20en%20reglementen/Bewaarbeleid%20documenten%20en%20gegevens%20%28versie%201.1%2C%20februari%202026%29.md)
+- [Gedragscode medewerkers Noviqo (versie 1.2, september 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/16%20Beleid%20en%20reglementen/Gedragscode%20medewerkers%20Noviqo%20%28versie%201.2%2C%20september%202025%29.md)
+- [Integriteitsbeleid relatiegeschenken en belangenverstrengeling (versie 1.0, juni 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/16%20Beleid%20en%20reglementen/Integriteitsbeleid%20relatiegeschenken%20en%20belangenverstrengeling%20%28versie%201.0%2C%20juni%202025%29.md)
+- [Klokkenluidersregeling Noviqo (versie 1.0, oktober 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/16%20Beleid%20en%20reglementen/Klokkenluidersregeling%20Noviqo%20%28versie%201.0%2C%20oktober%202025%29.md)
+- [Personeelshandboek Noviqo (versie 3.0, januari 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/16%20Beleid%20en%20reglementen/Personeelshandboek%20Noviqo%20%28versie%203.0%2C%20januari%202026%29.md)
+- [Procuratieregeling en tekenbevoegdheden (versie 1.0, juli 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/16%20Beleid%20en%20reglementen/Procuratieregeling%20en%20tekenbevoegdheden%20%28versie%201.0%2C%20juli%202025%29.md)
+
+## 17 Processen en procedures
+- [Change- en releasemanagementproces PlanGrip (versie 3.0, april 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/17%20Processen%20en%20procedures/Change-%20en%20releasemanagementproces%20PlanGrip%20%28versie%203.0%2C%20april%202026%29.md)
+- [Contractmanagementproces van offerte tot verlenging (versie 1.0, september 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/17%20Processen%20en%20procedures/Contractmanagementproces%20van%20offerte%20tot%20verlenging%20%28versie%201.0%2C%20september%202025%29.md)
+- [Implementatie- en onboardingproces nieuwe klanten (versie 2.1, januari 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/17%20Processen%20en%20procedures/Implementatie-%20en%20onboardingproces%20nieuwe%20klanten%20%28versie%202.1%2C%20januari%202026%29.md)
+- [Procedure datalekken en beveiligingsincidenten (versie 2.0, augustus 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/17%20Processen%20en%20procedures/Procedure%20datalekken%20en%20beveiligingsincidenten%20%28versie%202.0%2C%20augustus%202025%29.md)
+- [Procedure debiteurenbeheer en incasso (versie 1.2, juni 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/17%20Processen%20en%20procedures/Procedure%20debiteurenbeheer%20en%20incasso%20%28versie%201.2%2C%20juni%202025%29.md)
+- [Procedure leveranciersbeoordeling en inkoop SaaS-diensten (versie 1.0, oktober 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/17%20Processen%20en%20procedures/Procedure%20leveranciersbeoordeling%20en%20inkoop%20SaaS-diensten%20%28versie%201.0%2C%20oktober%202025%29.md)
+- [Procedure verzoeken van betrokkenen (versie 1.1, mei 2025)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/17%20Processen%20en%20procedures/Procedure%20verzoeken%20van%20betrokkenen%20%28versie%201.1%2C%20mei%202025%29.md)
+- [Proces in- en uitdiensttreding medewerkers (versie 1.3, februari 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/17%20Processen%20en%20procedures/Proces%20in-%20en%20uitdiensttreding%20medewerkers%20%28versie%201.3%2C%20februari%202026%29.md)
+
+## 18 HR en personeel
+- [Regeling werknemersopties ESOP Noviqo (2025-10-01)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/18%20HR%20en%20personeel/Regeling%20werknemersopties%20ESOP%20Noviqo%20%282025-10-01%29.md)
+
+## 19 Informatiebeveiliging
+- [Business continuity- en uitwijkplan PlanGrip (versie 1.1, april 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/19%20Informatiebeveiliging/Business%20continuity-%20en%20uitwijkplan%20PlanGrip%20%28versie%201.1%2C%20april%202026%29.md)
+- [Informatiebeveiligingsbeleid Noviqo (versie 2.0, januari 2026)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/19%20Informatiebeveiliging/Informatiebeveiligingsbeleid%20Noviqo%20%28versie%202.0%2C%20januari%202026%29.md)
+- [Managementsamenvatting pentestrapport Schildwacht Security (2026-02-09)](https://raw.githubusercontent.com/MarkICTRecht/noviqo-dossier/main/19%20Informatiebeveiliging/Managementsamenvatting%20pentestrapport%20Schildwacht%20Security%20%282026-02-09%29.md)
