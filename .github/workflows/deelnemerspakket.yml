@@ -1,0 +1,50 @@
+name: Deelnemerspakket Gemeente Lindewoude
+
+# Bouwt bij elke wijziging in de bronbestanden het pakket (Word, PDF, gescande PDF)
+# en publiceert het als nieuwste release. De downloadlink in de README wijst altijd
+# naar de nieuwste release:
+# https://github.com/MarkICTRecht/noviqo-dossier/releases/latest/download/noviqo-gemeente-lindewoude.zip
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "20 Gemeente Lindewoude/**"
+      - "05 Verkoopcontracten/Overeenkomst PlanGrip - Gemeente Lindewoude (2026-03-16).md"
+      - "scripts/**"
+      - ".github/workflows/deelnemerspakket.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Tools installeren
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            pandoc libreoffice-writer poppler-utils imagemagick img2pdf \
+            fonts-urw-base35 fonts-dejavu-core fonts-liberation fonts-crosextra-carlito
+
+      - name: Pakket bouwen
+        run: python3 scripts/build.py
+
+      - name: Release-tag bepalen
+        id: tag
+        run: echo "tag=pakket-$(date +%Y%m%d)-${{ github.run_number }}" >> "$GITHUB_OUTPUT"
+
+      - name: Publiceren als nieuwste release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: Deelnemerspakket Gemeente Lindewoude (${{ steps.tag.outputs.tag }})
+          body: |
+            Fictief deelnemerspakket Gemeente Lindewoude (spoor 1 handhaving terras, spoor 2 contractgeschil PlanGrip).
+            Automatisch gebouwd uit de markdownbronnen in commit ${{ github.sha }}.
+          files: dist/noviqo-gemeente-lindewoude.zip
+          make_latest: "true"

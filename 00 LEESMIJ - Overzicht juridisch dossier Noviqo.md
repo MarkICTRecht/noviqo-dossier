@@ -2,6 +2,14 @@
 
 **Let op: volledig fictief.** Alle organisaties, personen, adressen, KvK-nummers, bankrekeningen en bedragen in dit dossier zijn verzonnen voor demonstratie- en oefendoeleinden. Elke gelijkenis met bestaande personen of organisaties berust op toeval. Dit dossier is geen juridisch advies.
 
+## Deelnemerspakket Gemeente Lindewoude (Word en PDF)
+
+[![Download het deelnemerspakket](https://img.shields.io/badge/Download-deelnemerspakket%20Gemeente%20Lindewoude-1F4E3D?style=for-the-badge&logo=github)](https://github.com/MarkICTRecht/noviqo-dossier/releases/latest/download/noviqo-gemeente-lindewoude.zip)
+
+Klik op de knop of gebruik deze link: **https://github.com/MarkICTRecht/noviqo-dossier/releases/latest/download/noviqo-gemeente-lindewoude.zip**
+
+Eén zip met kant-en-klare Word- en PDF-bestanden voor trainingen, waaronder een gescand bezwaarschrift. Het pakket bevat twee sporen: een handhavingszaak over een terras (met bezwaar) en een contractgeschil tussen de gemeente en Noviqo over de oplevering van PlanGrip. De bestanden worden automatisch gebouwd uit de markdownbronnen in map 20 (zie `scripts/build.py`). De link wijst altijd naar de nieuwste versie.
+
 ## De fictieve organisatie
 
 **Noviqo B.V.** — scale-up (opgericht 12 januari 2023) achter het SaaS-platform **PlanGrip** voor projectplanning en capaciteitsmanagement in het mkb, met de mobiele app PlanGrip Veld en sinds januari 2026 de AI-module PlanGrip Insights. Gevestigd te Amsterdam (Verzonnelkade 88), KvK 91234567 (fictief). Peildatum dossier: oktober 2026 — ca. 240 klanten, ARR ca. € 2,1 mln, 31 medewerkers. In oktober 2025 is een Series A van € 3 mln afgerond; sindsdien is er een raad van commissarissen.
@@ -42,6 +50,7 @@
 | 17 Processen en procedures | Datalekken; verzoeken betrokkenen; contractmanagement; klantonboarding; debiteurenbeheer; change- en releasemanagement; in- en uitdiensttreding; leveranciersbeoordeling |
 | 18 HR en personeel | Optieregeling (ESOP) |
 | 19 Informatiebeveiliging | Informatiebeveiligingsbeleid; managementsamenvatting pentestrapport; business continuity-plan |
+| 20 Gemeente Lindewoude | Overheidstak voor trainingen. Spoor 1 handhaving terras Brasserie De Waag: constateringsrapport, voornemen, zienswijze, besluit last onder dwangsom, bezwaarschrift, beleidsregel, format advies bezwaarcommissie. Spoor 2 contractgeschil PlanGrip: e-mailwisseling implementatie, boeteaanzegging, reactie Noviqo |
 
 ## Belangrijke gebeurtenissen
 
@@ -54,5 +63,9 @@
 | 09-02-2026 | Pentestrapport (1 hoge bevinding) | 19 |
 | 03/04-03-2026 | Storing van 19 uur na databasemigratie → claim Hazelaar | 14, 17, 19, 01 |
 | 16-03-2026 | Gunning aanbesteding Gemeente Lindewoude | 05 |
+| 27-05 / 15-06 / 24-07-2026 | Acceptatieomgeving Lindewoude, acceptatie onder voorbehoud, koppelingen in productie | 20 |
+| 18-07-2026 | Constatering terrasoverschrijding Brasserie De Waag (Zomerfeest) | 20 |
+| 19/20-08-2026 | Incident SSO-rolkoppeling Lindewoude en melding | 08, 20 |
+| 07-09 / 21-09-2026 | Boeteaanzegging Lindewoude en reactie Noviqo | 20 |
 
 De documenten verwijzen onderling naar elkaar, zodat het dossier als samenhangende casus bruikbaar is: van Series A-rekenwerk dat in vier documenten terugkomt tot het datalek dat in procedures, register, notulen en klantcorrespondentie opduikt.
